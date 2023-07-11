@@ -87,9 +87,46 @@ header{
   margin-left: -20px;
 }
 
+.red{
+  display: inline-block;
+  border: 1.5px solid red;
+  color: red;
+  padding: 0px 5px;
+  border-radius: 50%;
+  margin-left: -20px;
+}
+
 .editorial{
-  border: 1px solid aqua;
-  background-color: aqua;
+  border: 1px solid #45ABEA;
+  background-color: #45ABEA;
+  color: white;
+  border-radius: 10px 10px;
+  padding: 5px;
+  font-size: 0.7rem;
+}
+
+.q1{
+  border: 1px solid #9C72E4;
+  background-color: #9C72E4;
+  color: white;
+  border-radius: 10px 10px;
+  padding: 5px;
+  font-size: 0.7rem;
+}
+
+.recru{
+  border: 1px solid #63BFA8;
+  background-color: #63BFA8;
+  color: white;
+  border-radius: 10px 10px;
+  padding: 5px;
+  font-size: 0.7rem;
+}
+
+.mobile{
+  border: 1px solid #F29E33;
+  background-color: #F29E33;
+  color: white;
   border-radius: 10px 10px;
   padding: 5px;
   font-size: 0.7rem;
