@@ -73,6 +73,7 @@ header{
 
 .item{
   list-style: none;
+  list-style-type: '\2714';
 }
 
 .green{
