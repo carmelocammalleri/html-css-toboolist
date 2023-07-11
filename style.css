@@ -33,16 +33,17 @@ header{
 
 /*fine intestazione*/
 
-/* corpo centrale */
+/* sezione bottoni */
 
 .container{
   background-color: white;
   margin: 50px 200px;
-  padding: 10px 40px;
+  border-radius: 10px 10px;
 }
 
 .button{
-  margin: 20px 20px;
+  padding: 20px 40px;
+  border-bottom: 3px solid gainsboro;
 }
 
 #task{
@@ -57,4 +58,28 @@ header{
   padding: 5px 15px;
   border-radius: 5px 5px;
   border: 2px solid gainsboro;
+}
+
+/* fine sezione bottoni */
+
+.list{
+  list-style: none;
+  margin: 50px;
+}
+
+.add{
+  list-style-type: '\25BC';
+}
+
+.item{
+  list-style: none;
+}
+
+.green{
+  display: inline-block;
+  border: 1.5px solid green;
+  color: green;
+  padding: 0px 5px;
+  border-radius: 50%;
+  margin: 5px 0px;
 }
