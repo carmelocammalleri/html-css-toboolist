@@ -15,6 +15,7 @@ body{
   background-color: white;
   margin: 50px 200px;
   border-radius: 10px 10px;
+  padding-bottom: 30px;
 }
 
 /* fine generali*/
@@ -43,6 +44,7 @@ header{
 
 .button{
   padding: 20px 40px;
+  margin: 0px 50px;
   border-bottom: 3px solid gainsboro;
 }
 
@@ -72,12 +74,12 @@ header{
 .add{
   list-style-type: '\25BC';
   margin-bottom: 40px;
+  margin: 0px 50px;
 }
 
 .item{
   list-style: none;
   margin-bottom: 15px;
-  margin-top: 15px;
 }
 
 .green, .red {
