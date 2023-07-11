@@ -1,3 +1,5 @@
+/* Generali */
+
 *{
   margin: 0;
   padding: 0;
@@ -7,3 +9,26 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: gainsboro;
 }
+
+/* fine generali*/
+
+/* intestazione */
+
+header{
+  background-color: white;
+  padding: 20px;
+}
+
+.head h1{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#logo{
+  vertical-align: middle;
+}
+
+/*fine intestazione*/
+
