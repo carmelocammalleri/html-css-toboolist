@@ -94,7 +94,7 @@ header{
   color: red;
 }
 
-.editorial,.q1, .recru,.mobile{
+.editorial,.q1, .recru,.mobile,.website,.sales{
   border: 1px solid #45ABEA;
   background-color: #45ABEA;
   color: white;
@@ -117,4 +117,14 @@ header{
 .mobile{
   border: 1px solid #F29E33;
   background-color: #F29E33;
+}
+
+.website{
+  border: 1px solid #D863A1;
+  background-color: #D863A1;
+}
+
+.sales{
+  border: 1px solid #B0C926;
+  background-color: #B0C926;
 }
