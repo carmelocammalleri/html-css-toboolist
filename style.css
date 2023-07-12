@@ -44,7 +44,6 @@ header{
 
 .button{
   padding: 20px 40px;
-  margin: 0px 50px;
   border-bottom: 3px solid gainsboro;
 }
 
@@ -74,26 +73,26 @@ header{
 .add{
   list-style-type: '\25BC';
   margin-bottom: 40px;
-  margin: 0px 50px;
 }
 
 .item{
   list-style: none;
   margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 .green, .red {
   display: inline-block;
-  border: 1.5px solid #59BBA3;
-  color: #59BBA3;
+  border: 1.5px solid #60bea6;
+  color: #60bea6;
   padding: 0px 5px;
   border-radius: 50%;
   margin-left: -20px;
 }
 
 .red{
-  border: 1.5px solid #E9463E;
-  color: #E9463E;
+  border: 1.5px solid #EE6C64;
+  color: #EE6C64ed;
 }
 
 .editorial,.q1, .recru,.mobile,.website,.sales{
